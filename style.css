@@ -1,0 +1,32 @@
+header{
+  font-family: monospace;
+  padding: 15px;
+  margin: 15px;
+}
+
+body{
+  margin:0px;
+  background-color: beige;
+  border: 14px solid;
+  border-color:green brown beige blue;
+  //margin: 10px 20px;
+  margin-top: 15px;
+  font-family: monospace;
+  
+  
+}
+
+h1{
+  margin:5px;
+  letter-spacing: 3px;
+  text-transform:uppercase;
+  padding: 30px;
+}
+
+p{
+  padding: 5px;
+}
+
+.font_blue{
+  color:rgb(207, 100, 39);
+}
